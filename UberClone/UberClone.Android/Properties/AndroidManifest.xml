@@ -8,6 +8,6 @@
 	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
 	<uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
 	<application android:label="UberClone.Android">
-		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBAtPzRjbXY8YXHxyIUarBN9Yk_oXa0Mz0" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="APIKEY" />
 	</application>
 </manifest>
